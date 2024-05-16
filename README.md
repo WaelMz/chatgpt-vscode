@@ -35,13 +35,14 @@ After completing these steps, the extension should be ready to use.
 
 ### Obtaining the session token
 
-To use this extension, you will need to authenticate with a valid session token from ChatGPT. To get a session token:
+~~To use this extension, you will need to authenticate with a valid session token from ChatGPT. To get a session token:~~
 
-1. Go to https://chat.openai.com/chat and log in or sign up.
+~~1. Go to https://chat.openai.com/chat and log in or sign up.
 2. Open the developer tools in your browser.
 3. Go to the `Application` tab and open the `Cookies` section.
-4. Copy the value for `__Secure-next-auth.session-token` and save it.
+4. Copy the value for `__Secure-next-auth.session-token` and save it.~~
 
+you can now obtain the api key from : [[Here](https://platform.openai.com/account/api-keys)]
 Once you have obtained a session token, you can configure the extension to use it as described in the previous section.
 
 
